@@ -47,12 +47,12 @@ def prime_feed():
 
     if request.method == 'GET':
 
-        amazon_feed_data = {
+        amazon_feed_sources = {
             "metadata": ["http://127.0.0.1:5000/prime/meta"],
             "offers": ["http://127.0.0.1:5000/prime/offers"]
         }
 
-        return Response(json.dumps(amazon_feed_data))
+        return Response(json.dumps(amazon_feed_sources))
 
 
 @app.route('/prime/meta', methods=['GET', 'POST'])
@@ -76,3 +76,24 @@ def prime_offers():
 
             prime_offers_string = '\n'.join([json.dumps(prime_offer) for prime_offer in prime_offers])
             return Response(prime_offers_string)
+
+
+@app.route('/britbox/catalog', methods=['GET', 'POST'])
+def britbox_catalog():
+
+    if request.method == 'GET':
+        with app.open_resource('static/britbox/britbox_metadata.json') as britbox_metadata_json:
+            britbox_metadata = json.load(britbox_metadata_json)
+
+            return Response(json.dumps(britbox_metadata))
+
+
+@app.route('/britbox/availability', methods=['GET', 'POST'])
+def britbox_availability():
+
+    if request.method == 'GET':
+        with app.open_resource('static/britbox/britbox_availability.json') as britbox_availability_json:
+            britbox_availability = json.load(britbox_availability_json)
+            britbox_availability['availability']['service']['totalItemCount'] = len(britbox_availability['availability']['service']['item'])
+
+            return Response(json.dumps(britbox_availability))
