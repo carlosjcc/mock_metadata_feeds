@@ -97,3 +97,23 @@ def britbox_availability():
             britbox_availability['availability']['service']['totalItemCount'] = len(britbox_availability['availability']['service']['item'])
 
             return Response(json.dumps(britbox_availability))
+
+
+@app.route('/acorntv/metadata', methods=['GET', 'POST'])
+def acorntv_metadata():
+
+    if request.method == 'GET':
+        with app.open_resource('static/acorn_tv_metadata.json') as acorn_tv_metadata_json:
+            acorn_tv_metadata = json.load(acorn_tv_metadata_json)
+
+            return Response(json.dumps(acorn_tv_metadata))
+
+
+@app.route('/disney_plus/feed', methods=['GET', 'POST'])
+def disney_plus_feed():
+
+    if request.method == 'GET':
+        with app.open_resource('static/disney_plus_feed.json') as disney_plus_feed_json:
+            disney_plus_feed = json.load(disney_plus_feed_json)
+
+            return Response(json.dumps(disney_plus_feed))
