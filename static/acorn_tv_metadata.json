@@ -1,0 +1,256 @@
+{
+    "items":[
+        {
+            "episodeNumber":1,
+            "slug":"part-1",
+            "language":"en",
+            "classification":"PG",
+            "title":"    ",
+            "Series":{
+                "genres":{
+                    "label":[
+                        "all",
+                        "Crime",
+                        "Mystery"
+                    ]
+                },
+                "description":"",
+                "title":"Amnesia",
+                "image":{
+                    "sizes":{
+                        "w1920":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1920",
+                        "w1280":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1280",
+                        "w768":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=768"
+                    }
+                },
+                "slug":"amnesia",
+                "id":"amnesia",
+                "cast":{
+                    "label":[
+                        "John Hannah"
+                    ]
+                },
+                "deeplink":"https://acorn.tv/amnesia/",
+                "type":"SERIES",
+                "directedBy":{
+                    "label":[
+                        
+                    ]
+                }
+            },
+            "image":{
+                "sizes":{
+                    "w1920":"https://api.rlje.net/acorn/artwork/size/amnesia_sr01_ep01_splash?w=1920",
+                    "w1280":"https://api.rlje.net/acorn/artwork/size/amnesia_sr01_ep01_splash?w=1280",
+                    "w768":"https://api.rlje.net/acorn/artwork/size/amnesia_sr01_ep01_splash?w=768"
+                }
+            },
+            "releaseYear":"",
+            "expiry":1659362340000,
+            "video":"https://acorn.tv/amnesia/amnesia/part-1/",
+            "Season":{
+                "seriesId":"amnesia01",
+                "seasonNumber":1,
+                "description":"Hailed by Variety as \u201cfascinating\u201d with \u201ca top-notch cast,\u201d this psychological thriller stars John Hannah (The Mummy) as DS Mack Stone, who, while searching for his missing wife, uncovers a possible murder masked by a claim of amnesia. But as Stone investigates, he begins to doubt his own memories. Co-starring Jemma Redgrave (Bramwell), Anthony Calf (New Tricks), and Brendan Coyle (Downton Abbey).",
+                "title":"amnesia",
+                "image":{
+                    "sizes":{
+                        "w1920":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1920",
+                        "w1280":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1280",
+                        "w768":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=768"
+                    }
+                },
+                "slug":"amnesia",
+                "deeplink":"https://acorn.tv/amnesia/amnesia/",
+                "type":"SEASON",
+                "id":"amnesia01"
+            },
+            "duration":4379,
+            "deeplink":"https://acorn.tv/amnesia/amnesia/part-1/",
+            "type":"EPISODE",
+            "id":"D8964E01",
+            "description":"A policeman is left distraught after his wife's sudden disappearance on their fifth wedding anniversary, and strives tirelessly to discover what has happened to her."
+        },
+        {
+            "episodeNumber":1,
+            "slug":"part-1",
+            "language":"en",
+            "classification":"PG",
+            "title":"Part 1",
+            "Series":{
+                "genres":{
+                    "label":[
+                        "all",
+                        "Crime",
+                        "Mystery"
+                    ]
+                },
+                "description":"",
+                "title":"      ",
+                "image":{
+                    "sizes":{
+                        "w1920":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1920",
+                        "w1280":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1280",
+                        "w768":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=768"
+                    }
+                },
+                "slug":"amnesia",
+                "id":"amnesia",
+                "cast":{
+                    "label":[
+                        "John Hannah"
+                    ]
+                },
+                "deeplink":"https://acorn.tv/amnesia/",
+                "type":"SERIES",
+                "directedBy":{
+                    "label":[
+                        
+                    ]
+                }
+            },
+            "image":{
+                "sizes":{
+                    "w1920":"https://api.rlje.net/acorn/artwork/size/amnesia_sr01_ep01_splash?w=1920",
+                    "w1280":"https://api.rlje.net/acorn/artwork/size/amnesia_sr01_ep01_splash?w=1280",
+                    "w768":"https://api.rlje.net/acorn/artwork/size/amnesia_sr01_ep01_splash?w=768"
+                }
+            },
+            "releaseYear":"",
+            "expiry":1659362340000,
+            "video":"https://acorn.tv/amnesia/amnesia/part-1/",
+            "Season":{
+                "seriesId":"amnesia01",
+                "seasonNumber":1,
+                "description":"Hailed by Variety as \u201cfascinating\u201d with \u201ca top-notch cast,\u201d this psychological thriller stars John Hannah (The Mummy) as DS Mack Stone, who, while searching for his missing wife, uncovers a possible murder masked by a claim of amnesia. But as Stone investigates, he begins to doubt his own memories. Co-starring Jemma Redgrave (Bramwell), Anthony Calf (New Tricks), and Brendan Coyle (Downton Abbey).",
+                "title":"amnesia",
+                "image":{
+                    "sizes":{
+                        "w1920":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1920",
+                        "w1280":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1280",
+                        "w768":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=768"
+                    }
+                },
+                "slug":"amnesia",
+                "deeplink":"https://acorn.tv/amnesia/amnesia/",
+                "type":"SEASON",
+                "id":"amnesia01"
+            },
+            "duration":4379,
+            "deeplink":"https://acorn.tv/amnesia/amnesia/part-1/",
+            "type":"EPISODE",
+            "id":"D8964E01",
+            "description":"A policeman is left distraught after his wife's sudden disappearance on their fifth wedding anniversary, and strives tirelessly to discover what has happened to her."
+        },
+        {
+            "episodeNumber":1,
+            "slug":"part-1",
+            "language":"en",
+            "classification":"PG",
+            "title":"Part 1",
+            "Series":{
+                "genres":{
+                    "label":[
+                        "all",
+                        "Crime",
+                        "Mystery"
+                    ]
+                },
+                "description":"",
+                "title":"Amnesia",
+                "image":{
+                    "sizes":{
+                        "w1920":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1920",
+                        "w1280":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1280",
+                        "w768":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=768"
+                    }
+                },
+                "slug":"amnesia",
+                "id":"amnesia",
+                "cast":{
+                    "label":[
+                        "John Hannah"
+                    ]
+                },
+                "deeplink":"https://acorn.tv/amnesia/",
+                "type":"SERIES",
+                "directedBy":{
+                    "label":[
+                        
+                    ]
+                }
+            },
+            "image":{
+                "sizes":{
+                    "w1920":"https://api.rlje.net/acorn/artwork/size/amnesia_sr01_ep01_splash?w=1920",
+                    "w1280":"https://api.rlje.net/acorn/artwork/size/amnesia_sr01_ep01_splash?w=1280",
+                    "w768":"https://api.rlje.net/acorn/artwork/size/amnesia_sr01_ep01_splash?w=768"
+                }
+            },
+            "releaseYear":"",
+            "expiry":1659362340000,
+            "video":"https://acorn.tv/amnesia/amnesia/part-1/",
+            "Season":{
+                "seriesId":"amnesia01",
+                "seasonNumber":1,
+                "description":"Hailed by Variety as \u201cfascinating\u201d with \u201ca top-notch cast,\u201d this psychological thriller stars John Hannah (The Mummy) as DS Mack Stone, who, while searching for his missing wife, uncovers a possible murder masked by a claim of amnesia. But as Stone investigates, he begins to doubt his own memories. Co-starring Jemma Redgrave (Bramwell), Anthony Calf (New Tricks), and Brendan Coyle (Downton Abbey).",
+                "title":"     ",
+                "image":{
+                    "sizes":{
+                        "w1920":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1920",
+                        "w1280":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=1280",
+                        "w768":"https://api.rlje.net/acorn/artwork/size/amnesia_avatar?w=768"
+                    }
+                },
+                "slug":"amnesia",
+                "deeplink":"https://acorn.tv/amnesia/amnesia/",
+                "type":"SEASON",
+                "id":"amnesia01"
+            },
+            "duration":4379,
+            "deeplink":"https://acorn.tv/amnesia/amnesia/part-1/",
+            "type":"EPISODE",
+            "id":"D8964E01",
+            "description":"A policeman is left distraught after his wife's sudden disappearance on their fifth wedding anniversary, and strives tirelessly to discover what has happened to her."
+        },
+        {
+            "classification":"",
+            "description":"Kevin Whately (Inspector Lewis, Inspector Morse) and Ian McNeice (Doc Martin) star in this family film about Steve Shepherd, an architect who loses his job after crossing his boss, local bigwig Horace Gilbert. To make ends meet, Steve and his daughter decide to turn their house into a bed-and-breakfast but must fend off Horace's increasingly desperate attempts at sabotage.",
+            "language":"en",
+            "title":"     ",
+            "image":{
+                "sizes":{
+                    "w1920":"https://api.rlje.net/acorn/artwork/size/bandb_avatar?w=1920",
+                    "w1280":"https://api.rlje.net/acorn/artwork/size/bandb_avatar?w=1280",
+                    "w768":"https://api.rlje.net/acorn/artwork/size/bandb_avatar?w=768"
+                }
+            },
+            "genres":{
+                "label":[
+                    "all",
+                    "Comedy",
+                    "Drama",
+                    "Feature Film"
+                ]
+            },
+            "id":"AMD1073700",
+            "expiry":5847599789000,
+            "cast":{
+                "label":[
+                    
+                ]
+            },
+            "video":"https://acorn.tv/bandb/featurefilm/bandb/",
+            "slug":"bandb",
+            "releaseYear":"",
+            "duration":5944,
+            "deeplink":"https://acorn.tv/bandb/featurefilm/bandb/",
+            "type":"MOVIE",
+            "directedBy":{
+                "label":[
+                    
+                ]
+            }
+        }
+    ]
+}

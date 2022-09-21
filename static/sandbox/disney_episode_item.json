@@ -1,0 +1,603 @@
+{
+    "seriesId":"4d047851-3f0c-4173-8dd2-4bf851ee61e6",
+    "family":{
+        "parentRef":{
+            "seasonId":"9c22b5d5-78db-450b-9999-963476ef6b1d",
+            "seriesId":"4d047851-3f0c-4173-8dd2-4bf851ee61e6",
+            "programId":"e9725c99-5841-4c8c-9175-1832e96659a6"
+        },
+        "parent":true,
+        "partnerFamilyId":"org:disney.com:radar:443324",
+        "familyId":"ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6NDQzMzI0"
+    },
+    "isOriginal":false,
+    "labels":[
+        {
+            "region":"KR",
+            "value":"territory_requirement_kr"
+        }
+    ],
+    "texts":[
+        {
+            "mediumDescription":"Alors que le proc\u00e8s au p\u00e9nal de Faye s'ouvre, l'histoire de l'origine du r\u00e9seau clandestin et le caract\u00e8re complexe de Faye sont d\u00e9voil\u00e9s. Christine, une ancienne enfant du r\u00e9seau clandestin, revient sur son exp\u00e9rience et de nouveaux d\u00e9tails sur le pass\u00e9 d\u00e9vastateur de Faye sont mis en lumi\u00e8re. Michelle, la fille de Faye, raconte son histoire.",
+            "title":"Le R\u00e9seau clandestin",
+            "locale":"fr-FR",
+            "longDescription":"Alors que le proc\u00e8s au p\u00e9nal de Faye s'ouvre, l'histoire de l'origine du r\u00e9seau clandestin et le caract\u00e8re complexe de Faye sont d\u00e9voil\u00e9s. Christine, une ancienne enfant du r\u00e9seau clandestin, revient sur son exp\u00e9rience et de nouveaux d\u00e9tails sur le pass\u00e9 d\u00e9vastateur de Faye sont mis en lumi\u00e8re. Michelle, la fille de Faye, raconte son histoire.",
+            "sortTitle":"Le R\u00e9seau clandestin",
+            "shortDescription":"Le proc\u00e8s de Faye s'ouvre et l'origine de son r\u00e9seau clandestin est d\u00e9voil\u00e9e."
+        },
+        {
+            "mediumDescription":"Faye b\u00fcntet\u0151per\u00e9nek kezdetekor elmes\u00e9lik a szervezet l\u00e9trej\u00f6tt\u00e9nek t\u00f6rt\u00e9net\u00e9t, \u00e9s Faye szem\u00e9lyis\u00e9g\u00e9nek \u00f6sszetetts\u00e9ge is felt\u00e1rul. Christine, a szervezet egykori gyermeke visszatekint az \u00e9lm\u00e9nyeire, \u00e9s \u00fajabb r\u00e9szletek der\u00fclnek ki Faye felkavar\u00f3 m\u00faltj\u00e1r\u00f3l. Michelle, Faye l\u00e1nya elmondja a saj\u00e1t t\u00f6rt\u00e9net\u00e9t.",
+            "title":"Az Underground",
+            "locale":"hu",
+            "longDescription":"Faye b\u00fcntet\u0151per\u00e9nek kezdetekor elmes\u00e9lik a szervezet l\u00e9trej\u00f6tt\u00e9nek t\u00f6rt\u00e9net\u00e9t, \u00e9s Faye szem\u00e9lyis\u00e9g\u00e9nek \u00f6sszetetts\u00e9ge is felt\u00e1rul. Christine, a szervezet egykori gyermeke visszatekint az \u00e9lm\u00e9nyeire, \u00e9s \u00fajabb r\u00e9szletek der\u00fclnek ki Faye felkavar\u00f3 m\u00faltj\u00e1r\u00f3l. Michelle, Faye l\u00e1nya elmondja a saj\u00e1t t\u00f6rt\u00e9net\u00e9t.",
+            "sortTitle":"Az Underground",
+            "shortDescription":"Faye b\u00fcntet\u0151per\u00e9nek kezdetekor elmes\u00e9lik a szervezet l\u00e9trej\u00f6tt\u00e9nek t\u00f6rt\u00e9net\u00e9t."
+        },
+        {
+            "mediumDescription":"Na za\u010d\u00e1tku Fayeina soudn\u00edho procesu je vypr\u00e1v\u011bn p\u0159\u00edb\u011bh o vzniku podzem\u00ed a jsou odkr\u00fdv\u00e1ny dal\u0161\u00ed Fayeiny spletit\u00e9 osudy. Christine, b\u00fdval\u00e9 d\u00edt\u011b podzem\u00ed, se ohl\u00ed\u017e\u00ed za sv\u00fdmi zku\u0161enostmi a na povrch vyplouvaj\u00ed dal\u0161\u00ed podrobnosti o Fayein\u011b zdrcuj\u00edc\u00ed minulosti. Fayeina dcera Michelle vypr\u00e1v\u00ed sv\u016fj p\u0159\u00edb\u011bh.",
+            "title":"Podzem\u00ed",
+            "locale":"cs",
+            "longDescription":"Na za\u010d\u00e1tku Fayeina soudn\u00edho procesu je vypr\u00e1v\u011bn p\u0159\u00edb\u011bh o vzniku podzem\u00ed a jsou odkr\u00fdv\u00e1ny dal\u0161\u00ed Fayeiny spletit\u00e9 osudy. Christine, b\u00fdval\u00e9 d\u00edt\u011b podzem\u00ed, se ohl\u00ed\u017e\u00ed za sv\u00fdmi zku\u0161enostmi a na povrch vyplouvaj\u00ed dal\u0161\u00ed podrobnosti o Fayein\u011b zdrcuj\u00edc\u00ed minulosti. Fayeina dcera Michelle vypr\u00e1v\u00ed sv\u016fj p\u0159\u00edb\u011bh.",
+            "sortTitle":"Podzem\u00ed",
+            "shortDescription":"Na za\u010d\u00e1tku Fayeina soudn\u00edho procesu je vypr\u00e1v\u011bn p\u0159\u00edb\u011bh o vzniku podzem\u00ed."
+        },
+        {
+            "mediumDescription":"Alors que le proc\u00e8s p\u00e9nal de Faye commence, l'histoire de l'origine du r\u00e9seau clandestin est racont\u00e9e et les complexit\u00e9s de Faye sont r\u00e9v\u00e9l\u00e9es. Christine, une ancienne enfant cach\u00e9e, revient sur son exp\u00e9rience et de nouveaux d\u00e9tails sur le pass\u00e9 de Faye sont r\u00e9v\u00e9l\u00e9s. Michelle, la fille de Faye, raconte son histoire.",
+            "title":"Le Souterrain",
+            "locale":"fr-CA",
+            "longDescription":"Alors que le proc\u00e8s p\u00e9nal de Faye commence, l'histoire de l'origine du r\u00e9seau clandestin est racont\u00e9e et les complexit\u00e9s de Faye sont r\u00e9v\u00e9l\u00e9es. Christine, une ancienne enfant cach\u00e9e, revient sur son exp\u00e9rience et de nouveaux d\u00e9tails sur le pass\u00e9 de Faye sont r\u00e9v\u00e9l\u00e9s. Michelle, la fille de Faye, raconte son histoire.",
+            "sortTitle":"Le Souterrain",
+            "shortDescription":"Alors que le proc\u00e8s p\u00e9nal de Faye commence, l'histoire de l'origine de l'Underground est racont\u00e9e."
+        },
+        {
+            "mediumDescription":"Mentre comincia il processo penale di Faye, viene narrata la storia delle origini dell'Underground e vengono rivelate ulteriori complessit\u00e0 di Faye. Christine, una ex bambina dell'Underground, guarda indietro alla sua esperienza e ulteriori dettagli sul passato devastante di Faye vengono alla luce. Michelle, la figlia di Faye, racconta la sua storia.",
+            "title":"L'Underground",
+            "locale":"it",
+            "longDescription":"Mentre comincia il processo penale di Faye, viene narrata la storia delle origini dell'Underground e vengono rivelate ulteriori complessit\u00e0 di Faye. Christine, una ex bambina dell'Underground, guarda indietro alla sua esperienza e ulteriori dettagli sul passato devastante di Faye vengono alla luce. Michelle, la figlia di Faye, racconta la sua storia.",
+            "sortTitle":"L'Underground",
+            "shortDescription":"Mentre comincia il processo penale di Faye, viene narrata la storia delle origini dell'Underground."
+        },
+        {
+            "mediumDescription":"\u6cd5\u9662\u5c0dFaye\u9032\u884c\u5211\u4e8b\u5be9\u5224\uff0c\u63ed\u9732\u300c\u5730\u4e0b\u7d44\u7e54\u300d\u7684\u5167\u5e55\uff0c\u4e5f\u7206\u51fa\u66f4\u591a\u95dc\u65bcFaye\u7684\u79d8\u5bc6\u3002Christine\u66fe\u662f\u4e00\u540d\u88ab\u5730\u4e0b\u7d44\u7e54\u71df\u6551\u7684\u5b69\u5b50\uff0c\u5979\u8b1b\u8ff0\u81ea\u5df1\u7684\u7d93\u6b77\uff0c\u4e5f\u9053\u51fa\u5f88\u591a\u95dc\u65bcFaye\u7684\u53ef\u6015\u904e\u53bb\uff0c\u800cFaye\u7684\u5973\u5152Michelle\u4e5f\u73fe\u8eab\u89aa\u81ea\u8ff0\u8aaa\u7d93\u6b77\u3002",
+            "title":"\u5730\u4e0b\u7d44\u7e54",
+            "locale":"zh-HK",
+            "longDescription":"\u6cd5\u9662\u5c0dFaye\u9032\u884c\u5211\u4e8b\u5be9\u5224\uff0c\u63ed\u9732\u300c\u5730\u4e0b\u7d44\u7e54\u300d\u7684\u5167\u5e55\uff0c\u4e5f\u7206\u51fa\u66f4\u591a\u95dc\u65bcFaye\u7684\u79d8\u5bc6\u3002Christine\u66fe\u662f\u4e00\u540d\u88ab\u5730\u4e0b\u7d44\u7e54\u71df\u6551\u7684\u5b69\u5b50\uff0c\u5979\u8b1b\u8ff0\u81ea\u5df1\u7684\u7d93\u6b77\uff0c\u4e5f\u9053\u51fa\u5f88\u591a\u95dc\u65bcFaye\u7684\u53ef\u6015\u904e\u53bb\uff0c\u800cFaye\u7684\u5973\u5152Michelle\u4e5f\u73fe\u8eab\u89aa\u81ea\u8ff0\u8aaa\u7d93\u6b77\u3002",
+            "sortTitle":"\u5730\u4e0b\u7d44\u7e54",
+            "shortDescription":"\u6cd5\u9662\u5c0dFaye\u9032\u884c\u5211\u4e8b\u5be9\u5224\uff0c\u63ed\u9732\u300c\u5730\u4e0b\u7d44\u7e54\u300d\u7684\u5167\u5e55\u3002"
+        },
+        {
+            "mediumDescription":"\ud615\uc0ac \uc7ac\ud310\uc774 \uc2dc\uc791\ub418\uc790 \uc9c0\ud558\uc758 \uc2dc\ubc1c\uc810\uacfc \ud398\uc774\uc758 \ubcf5\uc7a1\ud55c \uacfc\uac70\uac00 \ubc1d\ud600\uc9c4\ub2e4. \uc9c0\ud558\ub97c \uac70\uccd0 \uac04 \uc544\ub3d9 \ud06c\ub9ac\uc2a4\ud2f4\uc774 \uc790\uc2e0\uc758 \uacbd\ud5d8\uc744 \uc774\uc57c\uae30\ud558\uace0 \ud398\uc774\uc758 \uc808\ub9dd\uc801\uc778 \uacfc\uac70\uac00 \uc54c\ub824\uc9c4\ub2e4. \ud398\uc774\uc758 \ub538 \ubbf8\uc178\ub3c4 \uc790\uc2e0\uc758 \uc774\uc57c\uae30\ub97c \uc804\ud55c\ub2e4.",
+            "title":"\uc9c0\ud558",
+            "locale":"ko",
+            "longDescription":"\ud398\uc774\uc758 \ud615\uc0ac \uc7ac\ud310\uc774 \uc2dc\uc791\ub418\uc790 \uc9c0\ud558\uc758 \uc2dc\ubc1c\uc810\uacfc \ud398\uc774\uc758 \ubcf5\uc7a1\ud55c \uacfc\uac70\uac00 \ucd94\uac00\ub85c \ubc1d\ud600\uc9c4\ub2e4. \uc9c0\ud558\ub97c \uac70\uccd0 \uac04 \uc544\ub3d9 \ud06c\ub9ac\uc2a4\ud2f4\uc774 \uc790\uc2e0\uc758 \uacbd\ud5d8\uc744 \ub4a4\ub3cc\uc544\ubcf4\uace0 \ud398\uc774\uc758 \uc808\ub9dd\uc801\uc778 \uacfc\uac70\uac00 \uc54c\ub824\uc9c4\ub2e4. \ud398\uc774\uc758 \ub538 \ubbf8\uc178\ub3c4 \uc790\uc2e0\uc758 \uc774\uc57c\uae30\ub97c \uc804\ud55c\ub2e4.",
+            "sortTitle":"\uc9c0\ud558",
+            "shortDescription":"\ud398\uc774\uc758 \ud615\uc0ac \uc7ac\ud310\uc774 \uc2dc\uc791\ub418\uc790 \uc9c0\ud558\uc758 \uc2dc\ubc1c\uc810\uc774 \ubc1d\ud600\uc9c4\ub2e4."
+        },
+        {
+            "mediumDescription":"Da Fayes straffesag begynder, fort\u00e6lles historien om undergrunden, og flere af Fayes kompleksiteter afsl\u00f8res. Christine, et tidligere barn af undergrunden, ser tilbage p\u00e5 sin oplevelse, og flere detaljer om Fayes forf\u00e6rdende fortid kommer frem i lyset. Michelle, Fayes datter, fort\u00e6ller sin historie.",
+            "title":"The Underground",
+            "locale":"da",
+            "longDescription":"Da Fayes straffesag begynder, fort\u00e6lles historien om undergrunden, og flere af Fayes kompleksiteter afsl\u00f8res. Christine, et tidligere barn af undergrunden, ser tilbage p\u00e5 sin oplevelse, og flere detaljer om Fayes forf\u00e6rdende fortid kommer frem i lyset. Michelle, Fayes datter, fort\u00e6ller sin historie.",
+            "sortTitle":"Underground, The",
+            "shortDescription":"Da Fayes straffesag begynder, fort\u00e6lles historien om undergrundens oprindelse."
+        },
+        {
+            "mediumDescription":"Fayen rikosoikeudenk\u00e4ynnin alkaessa h\u00e4nen maanalaisen verkostonsa syntytarina kerrotaan ja itse Fayen monimutkaisuudesta paljastuu lis\u00e4\u00e4. Aiemmin verkoston piiriin lapsena kuulunut Christine muistelee kokemuksiaan, ja Fayen j\u00e4rkytt\u00e4v\u00e4st\u00e4 menneisyydest\u00e4 ilmenee uusia seikkoja. Lis\u00e4ksi Fayen tyt\u00e4r Michelle kertoo tarinansa.",
+            "title":"The Underground",
+            "locale":"fi",
+            "longDescription":"Fayen rikosoikeudenk\u00e4ynnin alkaessa h\u00e4nen maanalaisen verkostonsa syntytarina kerrotaan ja itse Fayen monimutkaisuudesta paljastuu lis\u00e4\u00e4. Aiemmin verkoston piiriin lapsena kuulunut Christine muistelee kokemuksiaan, ja Fayen j\u00e4rkytt\u00e4v\u00e4st\u00e4 menneisyydest\u00e4 ilmenee uusia seikkoja. Lis\u00e4ksi Fayen tyt\u00e4r Michelle kertoo tarinansa.",
+            "sortTitle":"Underground, The",
+            "shortDescription":"Fayen rikosoikeudenk\u00e4ynnin alkaessa h\u00e4nen maanalaisen verkostonsa syntytarina kerrotaan."
+        },
+        {
+            "mediumDescription":"N\u00e4r Fayes brottsr\u00e4tteg\u00e5ng inleds, ber\u00e4ttas ursprungsber\u00e4ttelsen om n\u00e4tverket och avsl\u00f6jar mer av Fayes komplexitet. Christine, ett f\u00f6re detta barn i Underground, ser tillbaka p\u00e5 sin upplevelse och fler detaljer om Fayes f\u00f6r\u00f6dande f\u00f6rflutna kommer fram. Fayes dotter Michelle ber\u00e4ttar sin historia.",
+            "title":"The Underground",
+            "locale":"sv",
+            "longDescription":"N\u00e4r Fayes brottsr\u00e4tteg\u00e5ng inleds, ber\u00e4ttas ursprungsber\u00e4ttelsen om n\u00e4tverket och avsl\u00f6jar mer av Fayes komplexitet. Christine, ett f\u00f6re detta barn i Underground, ser tillbaka p\u00e5 sin upplevelse och fler detaljer om Fayes f\u00f6r\u00f6dande f\u00f6rflutna kommer fram. Fayes dotter Michelle ber\u00e4ttar sin historia.",
+            "sortTitle":"Underground, The",
+            "shortDescription":"N\u00e4r Fayes brottsr\u00e4tteg\u00e5ng inleds, ber\u00e4ttas ursprungsber\u00e4ttelsen om Underground-n\u00e4tverket."
+        },
+        {
+            "mediumDescription":"Gdy rozpoczyna si\u0119 proces karny Faye, przedstawiona zostaje historia powstania podziemia i ujawnione zostaj\u0105 kolejne zawi\u0142o\u015bci \u017cycia Faye. Christine, kt\u00f3ra niegdy\u015b by\u0142a dzieckiem podziemia, spogl\u0105da wstecz na swoje do\u015bwiadczenia, a na jaw wychodz\u0105 kolejne szczeg\u00f3\u0142y dotycz\u0105ce druzgoc\u0105cej przesz\u0142o\u015bci Faye. Michelle, c\u00f3rka Faye, opowiada swoj\u0105 histori\u0119.",
+            "title":"Podziemie",
+            "locale":"pl",
+            "longDescription":"Gdy rozpoczyna si\u0119 proces karny Faye, przedstawiona zostaje historia powstania podziemia i ujawnione zostaj\u0105 kolejne zawi\u0142o\u015bci \u017cycia Faye. Christine, kt\u00f3ra niegdy\u015b by\u0142a dzieckiem podziemia, spogl\u0105da wstecz na swoje do\u015bwiadczenia, a na jaw wychodz\u0105 kolejne szczeg\u00f3\u0142y dotycz\u0105ce druzgoc\u0105cej przesz\u0142o\u015bci Faye. Michelle, c\u00f3rka Faye, opowiada swoj\u0105 histori\u0119.",
+            "sortTitle":"Podziemie",
+            "shortDescription":"Gdy rozpoczyna si\u0119 proces karny Faye, przedstawiona zostaje historia powstania podziemia."
+        },
+        {
+            "mediumDescription":"Faye'in ceza davas\u0131 ba\u015flad\u0131\u011f\u0131nda, Yeralt\u0131'n\u0131n ba\u015flang\u0131\u00e7 hik\u00e2yesi anlat\u0131l\u0131r ve Faye'in karma\u015f\u0131kl\u0131\u011f\u0131 daha fazla ortaya \u00e7\u0131kar. Yeralt\u0131'n\u0131n eski bir \u00e7ocu\u011fu olan Christine, deneyimlerine geri d\u00f6ner ve Faye'in y\u0131k\u0131c\u0131 ge\u00e7mi\u015fi hakk\u0131nda daha fazla ayr\u0131nt\u0131 g\u00fcn \u0131\u015f\u0131\u011f\u0131na \u00e7\u0131kar. Faye'in k\u0131z\u0131 Michelle kendi hikayesini anlat\u0131r.",
+            "title":"Yeralt\u0131",
+            "locale":"tr",
+            "longDescription":"Faye'in ceza davas\u0131 ba\u015flad\u0131\u011f\u0131nda, Yeralt\u0131'n\u0131n ba\u015flang\u0131\u00e7 hikayesi anlat\u0131l\u0131r ve Faye'in karma\u015f\u0131kl\u0131\u011f\u0131 daha fazla ortaya \u00e7\u0131kar. Yeralt\u0131'n\u0131n eski bir \u00e7ocu\u011fu olan Christine, deneyimlerine geri d\u00f6ner ve Faye'in y\u0131k\u0131c\u0131 ge\u00e7mi\u015fi hakk\u0131nda daha fazla ayr\u0131nt\u0131 g\u00fcn \u0131\u015f\u0131\u011f\u0131na \u00e7\u0131kar. Faye'in k\u0131z\u0131 Michelle kendi hikayesini anlat\u0131r.",
+            "sortTitle":"Yeralt\u0131",
+            "shortDescription":"Faye'in ceza davas\u0131 ba\u015flarken, Yeralt\u0131'n\u0131n ba\u015flang\u0131\u00e7 hik\u00e2yesi anlat\u0131l\u0131r."
+        },
+        {
+            "mediumDescription":"Terwijl de rechtszaak tegen Faye begint, komt het ontstaan van de ondergrondse beweging aan het licht en worden meer van Fayes geheimen blootgelegd. Christine, een voormalig kind van de ondergrondse organisatie, kijkt terug op haar ervaring, en er komen meer details over het verwoestende verleden van Faye aan het licht. Michelle, de dochter van Faye, vertelt haar verhaal.",
+            "title":"The Underground",
+            "locale":"nl",
+            "longDescription":"Terwijl de rechtszaak tegen Faye begint, komt het ontstaan van de ondergrondse beweging aan het licht en worden meer van Fayes geheimen blootgelegd. Christine, een voormalig kind van de ondergrondse organisatie, kijkt terug op haar ervaring, en er komen meer details over het verwoestende verleden van Faye aan het licht. Michelle, de dochter van Faye, vertelt haar verhaal.",
+            "sortTitle":"Underground, The",
+            "shortDescription":"Tijdens de rechtszaak tegen Faye komt het ontstaan van de ondergrondse beweging aan het licht."
+        },
+        {
+            "mediumDescription":"Als Fayes Strafprozess beginnt, wird die Entstehungsgeschichte des Untergrunds erz\u00e4hlt und Fayes komplizierter und komplexer Hintergrund wird enth\u00fcllt. Christine, ein ehemaliges Kind des Untergrunds, blickt auf ihre Erfahrungen zur\u00fcck und es kommen weitere Details \u00fcber Fayes verheerende Vergangenheit ans Licht. Auch Michelle, Fayes Tochter, erz\u00e4hlt ihre Geschichte.",
+            "title":"Der Untergrund",
+            "locale":"de",
+            "longDescription":"Als Fayes Strafprozess beginnt, wird die Entstehungsgeschichte des Untergrunds erz\u00e4hlt und Fayes komplizierter und komplexer Hintergrund wird enth\u00fcllt. Christine, ein ehemaliges Kind des Untergrunds, blickt auf ihre Erfahrungen zur\u00fcck und es kommen weitere Details \u00fcber Fayes verheerende Vergangenheit ans Licht. Auch Michelle, Fayes Tochter, erz\u00e4hlt ihre Geschichte.",
+            "sortTitle":"Der Untergrund",
+            "shortDescription":"Als Fayes Strafprozess beginnt, wird die Entstehungsgeschichte des Untergrunds erz\u00e4hlt."
+        },
+        {
+            "mediumDescription":"\u6cd5\u9662\u5bf9\u83f2\u8fdb\u884c\u5211\u4e8b\u5ba1\u5224\uff0c\u63ed\u5f00\u4e86\u201c\u5730\u4e0b\u7ec4\u7ec7\u201d\u7684\u5185\u5e55\uff0c\u7206\u51fa\u4e86\u66f4\u591a\u5173\u4e8e\u83f2\u7684\u79d8\u5bc6\u3002\u514b\u8389\u4e1d\u6c40\u66fe\u7ecf\u662f\u4e00\u540d\u88ab\u5730\u4e0b\u7ec4\u7ec7\u8425\u6551\u7684\u5b69\u5b50\uff0c\u5979\u8bb2\u8ff0\u4e86\u81ea\u5df1\u7684\u7ecf\u5386\uff0c\u7206\u51fa\u4e86\u5f88\u591a\u5173\u4e8e\u83f2\u7684\u9ed1\u6599\u3002\u83f2\u7684\u5973\u513f\u7c73\u6b47\u5c14\u4e5f\u5f00\u59cb\u81ea\u8ff0\u7ecf\u5386\u3002",
+            "title":"\u5730\u4e0b\u7ec4\u7ec7",
+            "locale":"zh-Hans",
+            "longDescription":"\u6cd5\u9662\u5bf9\u83f2\u8fdb\u884c\u5211\u4e8b\u5ba1\u5224\uff0c\u63ed\u5f00\u4e86\u201c\u5730\u4e0b\u7ec4\u7ec7\u201d\u7684\u5185\u5e55\uff0c\u7206\u51fa\u4e86\u66f4\u591a\u5173\u4e8e\u83f2\u7684\u79d8\u5bc6\u3002\u514b\u8389\u4e1d\u6c40\u66fe\u7ecf\u662f\u4e00\u540d\u88ab\u5730\u4e0b\u7ec4\u7ec7\u8425\u6551\u7684\u5b69\u5b50\uff0c\u5979\u8bb2\u8ff0\u4e86\u81ea\u5df1\u7684\u7ecf\u5386\uff0c\u7206\u51fa\u4e86\u5f88\u591a\u5173\u4e8e\u83f2\u7684\u9ed1\u6599\u3002\u83f2\u7684\u5973\u513f\u7c73\u6b47\u5c14\u4e5f\u5f00\u59cb\u81ea\u8ff0\u7ecf\u5386\u3002",
+            "sortTitle":"\u5730\u4e0b\u7ec4\u7ec7",
+            "shortDescription":"\u6cd5\u9662\u5bf9\u83f2\u8fdb\u884c\u5211\u4e8b\u5ba1\u5224\uff0c\u63ed\u5f00\u4e86\u201c\u5730\u4e0b\u7ec4\u7ec7\u201d\u7684\u5185\u5e55\u3002"
+        },
+        {
+            "mediumDescription":"As Faye\u2019s criminal trial begins, the origin story of the Underground is told and more of Faye\u2019s complexities are revealed. Christine, a former child of the Underground, looks back on her experience and more details about Faye\u2019s devastating past come to light. Michelle, Faye\u2019s daughter, tells her story.",
+            "title":"The Underground",
+            "locale":"en-GB",
+            "longDescription":"As Faye\u2019s criminal trial begins, the origin story of the Underground is told and more of Faye\u2019s complexities are revealed. Christine, a former child of the Underground, looks back on her experience and more details about Faye\u2019s devastating past come to light. Michelle, Faye\u2019s daughter, tells her story.",
+            "sortTitle":"Underground, The",
+            "shortDescription":"As Faye\u2019s criminal trial begins, the origin story of the Underground is told."
+        },
+        {
+            "mediumDescription":"Cuando comienza el juicio penal de Faye, se cuenta la historia del origen de la clandestinidad y se revelan m\u00e1s complejidades de Faye. Christine, una antigua ni\u00f1a del Underground, recuerda su experiencia y salen a la luz m\u00e1s detalles sobre el devastador pasado de Faye. Michelle, la hija de Faye, cuenta su historia.",
+            "title":"La clandestinidad",
+            "locale":"es-419",
+            "longDescription":"Cuando comienza el juicio penal de Faye, se cuenta la historia del origen de la clandestinidad y se revelan m\u00e1s complejidades de Faye. Christine, una antigua ni\u00f1a del Underground, recuerda su experiencia y salen a la luz m\u00e1s detalles sobre el devastador pasado de Faye. Michelle, la hija de Faye, cuenta su historia.",
+            "sortTitle":"La clandestinidad",
+            "shortDescription":"Mientras comienza el juicio penal de Faye, se cuenta la historia del origen de Underground."
+        },
+        {
+            "mediumDescription":"As Faye\u2019s criminal trial begins, the origin story of the Underground is told and more of Faye\u2019s complexities are revealed. Christine, a former child of the Underground, looks back on her experience and more details about Faye\u2019s devastating past come to light. Michelle, Faye\u2019s daughter, tells her story.",
+            "title":"The Underground",
+            "locale":"en",
+            "longDescription":"As Faye\u2019s criminal trial begins, the origin story of the Underground is told and more of Faye\u2019s complexities are revealed. Christine, a former child of the Underground, looks back on her experience and more details about Faye\u2019s devastating past come to light. Michelle, Faye\u2019s daughter, tells her story.",
+            "sortTitle":"Underground, The",
+            "shortDescription":"As Faye\u2019s criminal trial begins, the origin story of the Underground is told."
+        },
+        {
+            "mediumDescription":"Quando o julgamento criminal de Faye come\u00e7a, a hist\u00f3ria de origem da sua clandestinidade \u00e9 contada e mais complexidades de Faye s\u00e3o reveladas. Christine, uma ex-filha da clandestinidade, recorda a sua experi\u00eancia e mais detalhes sobre o passado devastador de Faye s\u00e3o conhecidos. Michelle, filha de Faye, conta a sua hist\u00f3ria.",
+            "title":"A Clandestinidade",
+            "locale":"pt-PT",
+            "longDescription":"Quando o julgamento criminal de Faye come\u00e7a, a hist\u00f3ria de origem da sua clandestinidade \u00e9 contada e mais complexidades de Faye s\u00e3o reveladas. Christine, uma ex-filha da clandestinidade, recorda a sua experi\u00eancia e mais detalhes sobre o passado devastador de Faye s\u00e3o conhecidos. Michelle, filha de Faye, conta a sua hist\u00f3ria.",
+            "sortTitle":"A Clandestinidade",
+            "shortDescription":"Quando o julgamento criminal de Faye come\u00e7a, a hist\u00f3ria de origem da sua clandestinidade \u00e9 contada."
+        },
+        {
+            "mediumDescription":"Quando o julgamento de Faye come\u00e7a, a hist\u00f3ria de origem do submundo \u00e9 contada e mais complexidades s\u00e3o reveladas. Christine, uma ex-filha do submundo, relembra sua experi\u00eancia e mais detalhes sobre o passado de Faye v\u00eam \u00e0 tona. Michelle, filha de Faye, conta sua hist\u00f3ria.",
+            "title":"Submundo",
+            "locale":"pt-BR",
+            "longDescription":"Quando o julgamento de Faye come\u00e7a, a hist\u00f3ria de origem do submundo \u00e9 contada e mais complexidades s\u00e3o reveladas. Christine, uma ex-filha do submundo, relembra sua experi\u00eancia e mais detalhes sobre o passado de Faye v\u00eam \u00e0 tona. Michelle, filha de Faye, conta sua hist\u00f3ria.",
+            "sortTitle":"Submundo",
+            "shortDescription":"Quando o julgamento de Faye come\u00e7a, a hist\u00f3ria de origem do submundo \u00e9 contada."
+        },
+        {
+            "mediumDescription":"\u00cencepe procesul penal al lui Faye \u0219i afl\u0103m povestea \u00eenceputurilor re\u021belei sale subterane \u0219i alte detalii complicate despre Faye. Christine, un copil salvat de re\u021beaua subteran\u0103, \u00ee\u0219i poveste\u0219te experien\u021bele; ies la lumin\u0103 mai multe am\u0103nunte despre trecutul \u0219ocant al lui Faye. Michelle, fiica lui Faye, \u00ee\u015fi spune povestea.",
+            "title":"Subteranul",
+            "locale":"ro",
+            "longDescription":"\u00cencepe procesul penal al lui Faye \u0219i afl\u0103m povestea \u00eenceputurilor re\u021belei sale subterane \u0219i alte detalii complicate despre Faye. Christine, un copil salvat de re\u021beaua subteran\u0103, \u00ee\u0219i poveste\u0219te experien\u021bele; ies la lumin\u0103 mai multe am\u0103nunte despre trecutul \u0219ocant al lui Faye. Michelle, fiica lui Faye, \u00ee\u015fi spune povestea.",
+            "sortTitle":"Subteranul",
+            "shortDescription":"\u00cencepe procesul penal al lui Faye \u0219i afl\u0103m povestea \u00eenceputurilor re\u021belei subterane."
+        },
+        {
+            "mediumDescription":"Cuando comienza el juicio de Faye, se revela la verdadera historia sobre la clandestinidad y muchos m\u00e1s detalles sobre ella. Christine, que fue una de las ni\u00f1as en la clandestinidad, habla sobre su experiencia y se revelan m\u00e1s detalles sobre el terrible pasado de Faye. Michelle, la hija de Faye, cuenta su versi\u00f3n.",
+            "title":"El refugio subterr\u00e1neo",
+            "locale":"es-ES",
+            "longDescription":"Cuando comienza el juicio de Faye, se revela la verdadera historia sobre la clandestinidad y muchos m\u00e1s detalles sobre ella. Christine, que fue una de las ni\u00f1as en la clandestinidad, habla sobre su experiencia y se revelan m\u00e1s detalles sobre el terrible pasado de Faye. Michelle, la hija de Faye, cuenta su versi\u00f3n.",
+            "sortTitle":"El refugio subterr\u00e1neo",
+            "shortDescription":"Cuando comienza el juicio de Faye, se revela la verdadera historia sobre la clandestinidad."
+        },
+        {
+            "mediumDescription":"\u6cd5\u9662\u5c0d\u83f2\u9032\u884c\u5211\u4e8b\u5be9\u5224\uff0c\u63ed\u958b\u201c\u5730\u4e0b\u7d44\u7e54\u201d\u7684\u5167\u5e55\uff0c\u7206\u51fa\u4e86\u66f4\u591a\u95dc\u65bc\u83f2\u7684\u79d8\u5bc6\u3002\u514b\u8389\u7d72\u6c40\u66fe\u7d93\u662f\u4e00\u540d\u88ab\u5730\u4e0b\u7d44\u7e54\u71df\u6551\u7684\u5b69\u5b50\uff0c\u5979\u8b1b\u8ff0\u4e86\u81ea\u5df1\u7684\u7d93\u6b77\uff0c\u63ed\u958b\u83f2\u8a31\u591a\u4e0d\u582a\u7684\u5f80\u4e8b\u3002\u83f2\u7684\u5973\u5152\u871c\u96ea\u5152\u4e5f\u958b\u59cb\u81ea\u8ff0\u7d93\u6b77\u3002",
+            "title":"\u5730\u4e0b\u7d44\u7e54",
+            "locale":"zh-Hant",
+            "longDescription":"\u6cd5\u9662\u5c0d\u83f2\u9032\u884c\u5211\u4e8b\u5be9\u5224\uff0c\u63ed\u958b\u201c\u5730\u4e0b\u7d44\u7e54\u201d\u7684\u5167\u5e55\uff0c\u7206\u51fa\u4e86\u66f4\u591a\u95dc\u65bc\u83f2\u7684\u79d8\u5bc6\u3002\u514b\u8389\u7d72\u6c40\u66fe\u7d93\u662f\u4e00\u540d\u88ab\u5730\u4e0b\u7d44\u7e54\u71df\u6551\u7684\u5b69\u5b50\uff0c\u5979\u8b1b\u8ff0\u4e86\u81ea\u5df1\u7684\u7d93\u6b77\uff0c\u63ed\u958b\u83f2\u8a31\u591a\u4e0d\u582a\u7684\u5f80\u4e8b\u3002\u83f2\u7684\u5973\u5152\u871c\u96ea\u5152\u4e5f\u958b\u59cb\u81ea\u8ff0\u7d93\u6b77\u3002",
+            "sortTitle":"\u5730\u4e0b\u7d44\u7e54",
+            "shortDescription":"\u6cd5\u9662\u5c0d\u83f2\u9032\u884c\u5211\u4e8b\u5be9\u5224\uff0c\u63ed\u958b\u4e86\u201c\u5730\u4e0b\u7d44\u7e54\u201d\u7684\u5167\u5e55\u3002"
+        },
+        {
+            "mediumDescription":"Ako sa za\u010d\u00edna trestn\u00fd proces s Faye, zaznie pr\u00edbeh o po\u010diatkoch Podzemia a odhal\u00ed sa viac spletitost\u00ed o Faye. B\u00fdval\u00e9 die\u0165a Podzemia Christine si zaspom\u00edna na svoje sk\u00fasenosti a odhalia sa \u010fal\u0161ie detaily Fayeinej zni\u010duj\u00facej minulosti. Fayeina dc\u00e9ra Michelle rozpovie svoj pr\u00edbeh.",
+            "title":"Podzemie",
+            "locale":"sk",
+            "longDescription":"Ako sa za\u010d\u00edna trestn\u00fd proces s Faye, zaznie pr\u00edbeh o po\u010diatkoch Podzemia a odhal\u00ed sa viac spletitost\u00ed o Faye. B\u00fdval\u00e9 die\u0165a Podzemia Christine si zaspom\u00edna na svoje sk\u00fasenosti a odhalia sa \u010fal\u0161ie detaily Fayeinej zni\u010duj\u00facej minulosti. Fayeina dc\u00e9ra Michelle rozpovie svoj pr\u00edbeh.",
+            "sortTitle":"Podzemie",
+            "shortDescription":"Ako sa za\u010d\u00edna trestn\u00fd proces s Faye, zaznie pr\u00edbeh o po\u010diatkoch Podzemia."
+        },
+        {
+            "mediumDescription":"\u30d5\u30a7\u30a4\u306e\u5211\u4e8b\u88c1\u5224\u304c\u59cb\u307e\u308a\u3001\u5730\u4e0b\u7d44\u7e54\u306e\u8d77\u6e90\u304c\u8a9e\u3089\u308c\u3001\u30d5\u30a7\u30a4\u306e\u8907\u96d1\u306a\u4e8b\u60c5\u304c\u3055\u3089\u306b\u660e\u3089\u304b\u306b\u306a\u308b\u3002\u4ee5\u524d\u5730\u4e0b\u7d44\u7e54\u306b\u304b\u304f\u307e\u308f\u308c\u3066\u3044\u305f\u5b50\u4f9b\u3067\u3042\u3063\u305f\u30af\u30ea\u30b9\u30c6\u30a3\u30f3\u306f\u81ea\u5206\u306e\u7d4c\u9a13\u3092\u632f\u308a\u8fd4\u308a\u3001\u30d5\u30a7\u30a4\u306e\u60b2\u60e8\u306a\u904e\u53bb\u304c\u660e\u308b\u307f\u306b\u306a\u308b\u3002",
+            "title":"\u30b8\u30fb\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30f3\u30c9",
+            "locale":"ja",
+            "longDescription":"\u30d5\u30a7\u30a4\u306e\u5211\u4e8b\u88c1\u5224\u304c\u59cb\u307e\u308a\u3001\u5730\u4e0b\u7d44\u7e54\u306e\u8d77\u6e90\u304c\u8a9e\u3089\u308c\u3001\u30d5\u30a7\u30a4\u306e\u8907\u96d1\u306a\u4e8b\u60c5\u304c\u3055\u3089\u306b\u660e\u3089\u304b\u306b\u306a\u308b\u3002\u4ee5\u524d\u5730\u4e0b\u7d44\u7e54\u306b\u304b\u304f\u307e\u308f\u308c\u3066\u3044\u305f\u5b50\u4f9b\u3067\u3042\u3063\u305f\u30af\u30ea\u30b9\u30c6\u30a3\u30f3\u306f\u81ea\u5206\u306e\u7d4c\u9a13\u3092\u632f\u308a\u8fd4\u308a\u3001\u30d5\u30a7\u30a4\u306e\u60b2\u60e8\u306a\u904e\u53bb\u304c\u660e\u308b\u307f\u306b\u306a\u308b\u3002",
+            "sortTitle":"\u30b8\u30fb\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30f3\u30c9",
+            "shortDescription":"\u30d5\u30a7\u30a4\u306e\u5211\u4e8b\u88c1\u5224\u304c\u59cb\u307e\u308a\u3001\u5730\u4e0b\u7d44\u7e54\u306e\u8d77\u6e90\u304c\u8a9e\u3089\u308c\u308b\u3002"
+        },
+        {
+            "mediumDescription":"N\u00e5r Fayes kriminelle rettssak begynner, blir historien om opprinnelsen til Underground fortalt og flere av Fayes forviklinger avsl\u00f8res. Christine, et tidligere barn av Underground, ser tilbake p\u00e5 opplevelsen og flere detaljer om Fayes \u00f8deleggende fortid kommer frem. Michelle, Fayes datter, forteller historien sin.",
+            "title":"The Underground",
+            "locale":"no",
+            "longDescription":"N\u00e5r Fayes kriminelle rettssak begynner, blir historien om opprinnelsen til Underground fortalt og flere av Fayes forviklinger avsl\u00f8res. Christine, et tidligere barn av Underground, ser tilbake p\u00e5 opplevelsen og flere detaljer om Fayes \u00f8deleggende fortid kommer frem. Michelle, Fayes datter, forteller historien sin.",
+            "sortTitle":"Underground, The",
+            "shortDescription":"N\u00e5r Fayes rettssak begynner, blir historien om opprinnelsen til Underground fortalt."
+        },
+        {
+            "mediumDescription":"\u038c\u03c4\u03b1\u03bd \u03b1\u03c1\u03c7\u03af\u03b6\u03b5\u03b9 \u03b7 \u03c0\u03bf\u03b9\u03bd\u03b9\u03ba\u03ae \u03b4\u03af\u03ba\u03b7 \u03c4\u03b7\u03c2 \u03a6\u03ad\u03b9, \u03be\u03b5\u03c4\u03c5\u03bb\u03af\u03b3\u03b5\u03c4\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b7 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1 \u03c4\u03c9\u03bd \u03b1\u03c0\u03b1\u03c1\u03c7\u03ce\u03bd \u03c4\u03bf\u03c5 \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf\u03c5 \u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bc\u03c0\u03b5\u03c1\u03b4\u03b5\u03bc\u03ad\u03bd\u03b7 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1 \u03c4\u03b7\u03c2 \u03a6\u03ad\u03b9. \u0397 \u039a\u03c1\u03b9\u03c3\u03c4\u03af\u03bd, \u03ad\u03bd\u03b1 \u03c0\u03c1\u03ce\u03b7\u03bd \u03c0\u03b1\u03b9\u03b4\u03af \u03c4\u03bf\u03c5 \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf\u03c5 \u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5, \u03b1\u03bd\u03b1\u03bb\u03bf\u03b3\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c4\u03b7 \u03b4\u03b9\u03ba\u03ae \u03c4\u03b7\u03c2 \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03af\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03bb\u03b5\u03c0\u03c4\u03bf\u03bc\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf \u03c3\u03c5\u03bd\u03c4\u03b1\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03cc \u03c0\u03b1\u03c1\u03b5\u03bb\u03b8\u03cc\u03bd \u03c4\u03b7\u03c2 \u03a6\u03ad\u03b9 \u03ad\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03c6\u03c9\u03c2. \u0397 \u039c\u03b9\u03c3\u03ad\u03bb, \u03b7 \u03ba\u03cc\u03c1\u03b7 \u03c4\u03b7\u03c2 \u03a6\u03ad\u03b9, \u03bb\u03ad\u03b5\u03b9 \u03c4\u03b7 \u03b4\u03b9\u03ba\u03ae \u03c4\u03b7\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1.",
+            "title":"\u03a4\u03bf \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf \u03b4\u03af\u03ba\u03c4\u03c5\u03bf",
+            "locale":"el",
+            "longDescription":"\u038c\u03c4\u03b1\u03bd \u03b1\u03c1\u03c7\u03af\u03b6\u03b5\u03b9 \u03b7 \u03c0\u03bf\u03b9\u03bd\u03b9\u03ba\u03ae \u03b4\u03af\u03ba\u03b7 \u03c4\u03b7\u03c2 \u03a6\u03ad\u03b9, \u03be\u03b5\u03c4\u03c5\u03bb\u03af\u03b3\u03b5\u03c4\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b7 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1 \u03c4\u03c9\u03bd \u03b1\u03c0\u03b1\u03c1\u03c7\u03ce\u03bd \u03c4\u03bf\u03c5 \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf\u03c5 \u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bc\u03c0\u03b5\u03c1\u03b4\u03b5\u03bc\u03ad\u03bd\u03b7 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1 \u03c4\u03b7\u03c2 \u03a6\u03ad\u03b9. \u0397 \u039a\u03c1\u03b9\u03c3\u03c4\u03af\u03bd, \u03ad\u03bd\u03b1 \u03c0\u03c1\u03ce\u03b7\u03bd \u03c0\u03b1\u03b9\u03b4\u03af \u03c4\u03bf\u03c5 \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf\u03c5 \u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5, \u03b1\u03bd\u03b1\u03bb\u03bf\u03b3\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c4\u03b7 \u03b4\u03b9\u03ba\u03ae \u03c4\u03b7\u03c2 \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03af\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03bb\u03b5\u03c0\u03c4\u03bf\u03bc\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf \u03c3\u03c5\u03bd\u03c4\u03b1\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03cc \u03c0\u03b1\u03c1\u03b5\u03bb\u03b8\u03cc\u03bd \u03c4\u03b7\u03c2 \u03a6\u03ad\u03b9 \u03ad\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03c6\u03c9\u03c2. \u0397 \u039c\u03b9\u03c3\u03ad\u03bb, \u03b7 \u03ba\u03cc\u03c1\u03b7 \u03c4\u03b7\u03c2 \u03a6\u03ad\u03b9, \u03bb\u03ad\u03b5\u03b9 \u03c4\u03b7 \u03b4\u03b9\u03ba\u03ae \u03c4\u03b7\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1.",
+            "sortTitle":"\u03a4\u03bf \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf \u03b4\u03af\u03ba\u03c4\u03c5\u03bf",
+            "shortDescription":"\u038c\u03c4\u03b1\u03bd \u03b1\u03c1\u03c7\u03af\u03b6\u03b5\u03b9 \u03b7 \u03c0\u03bf\u03b9\u03bd\u03b9\u03ba\u03ae \u03b4\u03af\u03ba\u03b7 \u03c4\u03b7\u03c2 \u03a6\u03ad\u03b9, \u03be\u03b5\u03c4\u03c5\u03bb\u03af\u03b3\u03b5\u03c4\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b7 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1 \u03c4\u03c9\u03bd \u03b1\u03c0\u03b1\u03c1\u03c7\u03ce\u03bd \u03c4\u03bf\u03c5 \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf\u03c5 \u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5."
+        }
+    ],
+    "images":[
+        {
+            "format":"png",
+            "url":"https://prod-ripcut-delivery.disney-plus.net/v1/disney/disco/fetch/FC44486DBA8CD2607408643C5392E96D3170E26135CF28C27C7F21903DDFF16E",
+            "height":1080,
+            "width":1920,
+            "aspectRatio":"1.78",
+            "type":"thumbnail",
+            "locales":[
+                "de",
+                "no",
+                "fi",
+                "hu",
+                "zh-Hans",
+                "zh-Hant",
+                "sk",
+                "sv",
+                "ko",
+                "zh-HK",
+                "pt-BR",
+                "el",
+                "es-ES",
+                "en",
+                "it",
+                "fr-CA",
+                "cs",
+                "pt-PT",
+                "ja",
+                "pl",
+                "fr-FR",
+                "da",
+                "ro",
+                "es-419",
+                "nl",
+                "tr",
+                "en-GB"
+            ]
+        }
+    ],
+    "alternateIds":[
+        {
+            "altRefType":"contentEidr",
+            "altId":"BF48-AC0F-2283-C97F-DAE4-Y"
+        },
+        {
+            "altRefType":"titleEidr",
+            "altId":"A192-78E7-B6B1-F19A-8F25-A"
+        },
+        {
+            "altRefType":"ctamTitleId",
+            "altId":"3106348"
+        },
+        {
+            "altRefType":"mddfContentId",
+            "altId":"md:cid:org:disney.com:radar:443324"
+        },
+        {
+            "altRefType":"radar",
+            "altId":"443324"
+        },
+        {
+            "altRefType":"editEidr",
+            "altId":"BF48-AC0F-2283-C97F-DAE4-Y"
+        }
+    ],
+    "availability":[
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "CC"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-10-19T07:00:00Z",
+            "audienceType":"Region"
+        },
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "TW"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-10-12T07:00:00Z",
+            "audienceType":"Region"
+        },
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "HK"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-10-12T07:00:00Z",
+            "audienceType":"Region"
+        },
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "AU"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-10-19T07:00:00Z",
+            "audienceType":"Region"
+        },
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "NU"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-10-19T07:00:00Z",
+            "audienceType":"Region"
+        },
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "CK"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-10-19T07:00:00Z",
+            "audienceType":"Region"
+        },
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "CX"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-10-19T07:00:00Z",
+            "audienceType":"Region"
+        },
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "TK"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-10-19T07:00:00Z",
+            "audienceType":"Region"
+        },
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "NF"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-10-19T07:00:00Z",
+            "audienceType":"Region"
+        },
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "CA"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-09-21T07:00:00Z",
+            "audienceType":"Region"
+        },
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "KR"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-11-02T07:00:00Z",
+            "audienceType":"Region"
+        },
+        {
+            "action":"Allow",
+            "audienceValues":[
+                "NZ"
+            ],
+            "expires":"2254-01-01T00:00:00Z",
+            "appears":"2022-10-19T07:00:00Z",
+            "audienceType":"Region"
+        }
+    ],
+    "isDeleted":false,
+    "productionCountry":"US",
+    "ratings":[
+        {
+            "advisories":[
+                
+            ],
+            "system":"AI",
+            "value":"Unknown"
+        },
+        {
+            "advisories":[
+                
+            ],
+            "system":"Custom:DisneyPlus:LATAM",
+            "value":"Unknown"
+        },
+        {
+            "advisories":[
+                
+            ],
+            "system":"NCS",
+            "value":"Unknown"
+        },
+        {
+            "advisories":[
+                
+            ],
+            "system":"TVPG",
+            "value":"TV-MA"
+        },
+        {
+            "advisories":[
+                "CoarseLanguage-Some",
+                "SexualReference-Some",
+                "MatureTheme"
+            ],
+            "system":"Custom:DisneyPlus:APAC",
+            "value":"15+"
+        },
+        {
+            "advisories":[
+                
+            ],
+            "system":"Custom:DisneyPlus:Kijkwijzer",
+            "value":"Unknown"
+        },
+        {
+            "advisories":[
+                
+            ],
+            "system":"DJCTQ",
+            "value":"Unknown"
+        },
+        {
+            "advisories":[
+                
+            ],
+            "system":"OFLC",
+            "value":"Unknown"
+        },
+        {
+            "advisories":[
+                "CoarseLanguage-Some",
+                "SexualReference-Some",
+                "MatureTheme"
+            ],
+            "system":"MDA",
+            "value":"NC16"
+        },
+        {
+            "advisories":[
+                
+            ],
+            "system":"Kijkwijzer",
+            "value":"Unknown"
+        }
+    ],
+    "titleId":"e9725c99-5841-4c8c-9175-1832e96659a6",
+    "episodeSequenceNumber":2,
+    "seasonId":"9c22b5d5-78db-450b-9999-963476ef6b1d",
+    "contentType":"episode",
+    "subBrands":[
+        "FX"
+    ],
+    "releases":[
+        {
+            "releaseDate":"2022-08-12",
+            "releaseType":"original",
+            "releaseYear":"2022"
+        }
+    ],
+    "deeplinks":[
+        {
+            "action":"playMedia",
+            "url":"https://www.disneyplus.com/video/934e7ea7-00e7-4d26-bf74-59b4483be3bf",
+            "type":"universalLink",
+            "params":[
+                {
+                    "field":"page",
+                    "value":"media_player"
+                },
+                {
+                    "field":"contentId",
+                    "value":"934e7ea7-00e7-4d26-bf74-59b4483be3bf"
+                },
+                {
+                    "field":"contentType",
+                    "value":"Full"
+                },
+                {
+                    "field":"programType",
+                    "value":"episode"
+                },
+                {
+                    "field":"type",
+                    "value":"series"
+                },
+                {
+                    "field":"id",
+                    "value":"3MUAo8YqEAMO"
+                }
+            ]
+        },
+        {
+            "action":"details",
+            "url":"https://www.disneyplus.com/series/the-underground/3MUAo8YqEAMO",
+            "type":"universalLink",
+            "params":[
+                {
+                    "field":"page",
+                    "value":"series_details"
+                },
+                {
+                    "field":"id",
+                    "value":"3MUAo8YqEAMO"
+                }
+            ]
+        }
+    ],
+    "seasonSequenceNumber":1,
+    "credits":[
+        
+    ],
+    "episodeSeriesSequenceNumber":2,
+    "brands":[
+        "Star"
+    ],
+    "targetLanguage":"en",
+    "subtitles":[
+        "nl",
+        "de",
+        "zh-Hant",
+        "pt-BR",
+        "es-419",
+        "cs",
+        "fr-FR",
+        "es-ES",
+        "pt-PT",
+        "sv",
+        "tr",
+        "it",
+        "no",
+        "sk",
+        "zh-Hans",
+        "da",
+        "pl",
+        "ko",
+        "ro",
+        "el",
+        "fi",
+        "zh-HK"
+    ],
+    "itemId":"934e7ea7-00e7-4d26-bf74-59b4483be3bf",
+    "audioTracks":[
+        {
+            "renditionName":"English",
+            "trackType":"Primary",
+            "features":[
+                "dolby_51",
+                "dolby_20"
+            ],
+            "language":"en"
+        }
+    ],
+    "subtitlesForDeaf":[
+        "en"
+    ],
+    "resolution":"HD",
+    "runTimeSeconds":"3151"
+}

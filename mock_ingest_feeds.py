@@ -3,7 +3,7 @@ How to run
 $ export FLASK_APP=mock_ingest_feeds export FLASK_ENV=development flask run
 """
 
-from flask import Flask, request, Response
+from flask import Flask, request, Response, make_response
 
 import json
 
@@ -117,3 +117,27 @@ def disney_plus_feed():
             disney_plus_feed = json.load(disney_plus_feed_json)
 
             return Response(json.dumps(disney_plus_feed))
+
+
+@app.route('/hayu/feed', methods=['GET', 'POST'])
+def hayu_feed():
+
+    if request.method == 'GET':
+
+        if request.args.get('test_number') == '1':
+            # both items of the same series are missing their series title
+
+            with app.open_resource('static/hayu/hayu_metadata_test_1.xml') as hayu_metadata_xml:
+                return make_response(hayu_metadata_xml.read())
+
+        if request.args.get('test_number') == '2':
+            # both items of the same series have their series title, but one
+            # is missing it's episode title
+
+            with app.open_resource('static/hayu/hayu_metadata_test_2.xml') as hayu_metadata_xml:
+                return make_response(hayu_metadata_xml.read())
+
+        else:
+
+            with app.open_resource('static/hayu/hayu_metadata.xml') as hayu_metadata_xml:
+                return make_response(hayu_metadata_xml.read())
