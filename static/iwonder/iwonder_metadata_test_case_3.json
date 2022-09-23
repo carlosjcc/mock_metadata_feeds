@@ -1,0 +1,103 @@
+{
+    "titles": [
+        {
+            "genres":[
+                "Politics & World Affairs",
+                "Society"
+            ],
+            "videoQuality":[
+                "HD",
+                "SD"
+            ],
+            "description":{
+                "short":"The new iwonder original series Coronavirus & Me showcases a touching collection of stories about how everyday Australians are handling the COVID-19 outbreak, from homecomings and hospitals, to homages and homecare.",
+                "long":"The new iwonder original series Coronavirus & Me showcases a touching collection of stories about how everyday Australians are handling the COVID-19 outbreak, from homecomings and hospitals, to homages and homecare."
+            },
+            "rights":[
+                {
+                    "timestampStart":1663737914,
+                    "timestampExpires":1742534518
+                }
+            ],
+            "images":{
+                "poster":"None",
+                "square":"https://images.iwonder.com/Square+images/CoronavirusAndMe-Ep2-ATV-1.jpg",
+                "backgrounds":{
+                    "default":"https://images.iwonder.com/Movie+Stills/CoronavirusAndMe-Ep2-BG-1.jpg",
+                    "web":"https://images.iwonder.com/Movie+Stills_websmart16x5/CoronavirusAndMe-BGW-1.jpg"
+                },
+                "covers":{
+                    "default":"https://images.iwonder.com/Images+With+Strap/portrait/CoronavirusAndMe-Exclusive-Portrait.jpg",
+                    "web":"https://images.iwonder.com/Images+With+Strap/landscape/CoronavirusAndMe-Exclusive-Landscape.jpg"
+                }
+            },
+            "deeplinks":{
+                "android":"iwonder://titles/d34caf067103c65be732d8f73435ea7e",
+                "ios":"iwonder://titles/d34caf067103c65be732d8f73435ea7e"
+            },
+            "yearOfProduction":2020,
+            "parentalGuidance":"PG",
+            "keywords":[
+                "society",
+                "family-friends",
+                "health",
+                "lifestyle",
+                "environment",
+                "world-affairs",
+                "travel"
+            ],
+            "episodes":[
+                {
+                    "seasonNumber":1,
+                    "name":"Episode 2",
+                    "imageURL":"https://images.iwonder.com/Movie+Stills/CoronavirusAndMe-Ep2-BG-1.jpg",
+                    "number":2,
+                    "synopsis":"The new iwonder original series Coronavirus & Me showcases a touching collection of stories about how everyday Australians are handling the COVID-19 outbreak, from homecomings and hospitals, to homages and homecare.",
+                    "duration":13,
+                    "videoURL":"https://playback-v1.iwonder.com/playback?platform=web&media=0d440a0cfa996497db7a63bd2a483a75",
+                    "id":"0d440a0cfa996497db7a63bd2a483a75"
+                },
+                {
+                    "seasonNumber":1,
+                    "name":"Episode 1",
+                    "imageURL":"https://images.iwonder.com/Movie+Stills/CoronavirusAndMe-BG-2.jpg",
+                    "number":1,
+                    "synopsis":"The new iwonder original series Coronavirus & Me showcases a touching collection of stories about how everyday Australians are handling the COVID-19 outbreak, from homecomings and hospitals, to homages and homecare.",
+                    "duration":14,
+                    "videoURL":"https://playback-v1.iwonder.com/playback?platform=web&media=2a96bcdb5e142420e3bac9a06d7e45c1",
+                    "id":"2a96bcdb5e142420e3bac9a06d7e45c1"
+                }
+            ],
+            "duration":27,
+            "seasons":[
+                {
+                    "name":"Coronavirus & Me - season 1",
+                    "imageURL":"",
+                    "yearOfProduction":"2020",
+                    "number":1,
+                    "synopsis":"The new iwonder original series Coronavirus & Me showcases a touching collection of stories about how everyday Australians are handling the COVID-19 outbreak, from homecomings and hospitals, to homages and homecare.",
+                    "id":"d34caf067103c65be732d8f73435ea7e-1"
+                },
+                {
+                    "name":"",
+                    "imageURL":"",
+                    "yearOfProduction":"2020",
+                    "number":2,
+                    "synopsis":"The new iwonder original series Coronavirus & Me showcases a touching collection of stories about how everyday Australians are handling the COVID-19 outbreak, from homecomings and hospitals, to homages and homecare.",
+                    "id":"334caf067103c65be732d8f73435ea7e-1"
+                },
+                {
+                    "name":"",
+                    "imageURL":"",
+                    "yearOfProduction":"2020",
+                    "synopsis":"The new iwonder original series Coronavirus & Me showcases a touching collection of stories about how everyday Australians are handling the COVID-19 outbreak, from homecomings and hospitals, to homages and homecare.",
+                    "id":"480laj967103c65be732d8f73431mq9f-3"
+                }
+
+            ],
+            "type":"tv",
+            "id":"d34caf067103c65be732d8f73435ea7e",
+            "name":"Coronavirus & Me"
+        }
+    ]
+}

@@ -141,3 +141,46 @@ def hayu_feed():
 
             with app.open_resource('static/hayu/hayu_metadata.xml') as hayu_metadata_xml:
                 return make_response(hayu_metadata_xml.read())
+
+
+@app.route('/iwonder/feed', methods=['GET', 'POST'])
+def iwonder_feed():
+
+    if request.method == 'GET':
+
+        if request.args.get('test_case') == "1":
+            # skip item types feature and film that have no name (title)
+
+            with app.open_resource('static/iwonder/iwonder_metadata_test_case_1.json') as iwonder_metadata_test_case_1_json:
+                iwonder_metadata_test_case_1 = json.load(iwonder_metadata_test_case_1_json)
+                return Response(json.dumps(iwonder_metadata_test_case_1))
+
+        elif request.args.get('test_case') == "2":
+            # item tv
+            # skip processing the series item, but process the season(s) and episode(s) items
+
+            with app.open_resource('static/iwonder/iwonder_metadata_test_case_2.json') as iwonder_metadata_test_case_2_json:
+                iwonder_metadata_test_case_2 = json.load(iwonder_metadata_test_case_2_json)
+                return Response(json.dumps(iwonder_metadata_test_case_2))
+
+        elif request.args.get('test_case') == "3":
+            # item tv
+            # skip processing season items with missing name and/or season number
+
+            with app.open_resource('static/iwonder/iwonder_metadata_test_case_3.json') as iwonder_metadata_test_case_3_json:
+                iwonder_metadata_test_case_3 = json.load(iwonder_metadata_test_case_3_json)
+                return Response(json.dumps(iwonder_metadata_test_case_3))
+
+        elif request.args.get('test_case') == "4":
+            # item tv
+            # skip processing episode items with missing name and/or episode number
+
+            with app.open_resource('static/iwonder/iwonder_metadata_test_case_4.json') as iwonder_metadata_test_case_4_json:
+                iwonder_metadata_test_case_4 = json.load(iwonder_metadata_test_case_4_json)
+                return Response(json.dumps(iwonder_metadata_test_case_4))
+
+        else:
+
+            with app.open_resource('static/iwonder/iwonder_metadata.json') as iwonder_metadata_json:
+                iwonder_metadata = json.load(iwonder_metadata_json)
+                return Response(json.dumps(iwonder_metadata))
