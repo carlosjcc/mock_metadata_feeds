@@ -1,0 +1,222 @@
+[
+    {
+        "items":[
+            {
+                "episode":{
+                    "Banner-L2":"https://streamcoimg-a.akamaihd.net/000/060/4/604-Banner-L2-28e491e97c5cec2e04eb120ecb5dc496.jpg",
+                    "closed_captions":[
+                        "en"
+                    ],
+                    "consumer_advice":[
+                        "Mature themes"
+                    ],
+                    "deeplinks":[
+                        {
+                            "action":"open",
+                            "platform":"fetch",
+                            "url":"https://api.stan.com.au/cat/v12/programs/604.json"
+                        }
+                    ],
+                    "description":"Newly qualified midwife Jenny Lee arrives in the East End to work with an order of nuns.",
+                    "duration":3118,
+                    "episode_number":1,
+                    "genre":[
+                        "Drama"
+                    ],
+                    "id":"340335",
+                    "landscape_art":"https://streamcoimg-a.akamaihd.net/000/340/335/340335-CastinCharacter-64d49d391fb71a55c1974d21debd6d21.jpg",
+                    "languages":[
+                        "English"
+                    ],
+                    "people":[
+                        {
+                            "name":"Jenny Agutter",
+                            "role":"actor"
+                        },
+                        {
+                            "name":"Laura Main",
+                            "role":"actor"
+                        },
+                        {
+                            "name":"Vanessa Redgrave",
+                            "role":"actor"
+                        },
+                        {
+                            "name":"Judy Parfitt",
+                            "role":"actor"
+                        },
+                        {
+                            "name":"Stephen McGann",
+                            "role":"actor"
+                        },
+                        {
+                            "name":"Philippa Lowthorpe",
+                            "role":"director"
+                        }
+                    ],
+                    "poster_art":"https://streamcoimg-a.akamaihd.net/000/060/4/604-PosterArt-9057fec13af84ffefa5df61345e064fa.jpg",
+                    "rating":"M",
+                    "restrictions":{
+                        "time":{
+                            "end_time":"2023-04-14T13:59:00Z",
+                            "start_time":"2014-10-25T13:00:00Z"
+                        }
+                    },
+                    "season_id":"34237",
+                    "season_number":1,
+                    "series_id":"604",
+                    "series_title":"Call the Midwife",
+                    "thumbnail_art":"https://streamcoimg-a.akamaihd.net/000/340/335/340335-CastinCharacter-64d49d391fb71a55c1974d21debd6d21.jpg",
+                    "title":"Episode 1",
+                    "video_quality":"HD"
+                }
+            },
+            {
+                "movie":{
+                    "consumer_advice":[
+                        "Adult themes"
+                    ],
+                    "rating":"PG",
+                    "languages":[
+                        "English"
+                    ],
+                    "audio_layout":"5.1",
+                    "landscape_art":"https://streamcoimg-a.akamaihd.net/000/311/156/311156-CastinCharacter-4d3cd630f2988a48aa25b8079584f4b6.jpg",
+                    "description":"A bet pits an eccentric British inventor, a Chinese thief on the run, and a French artist on a worldwide adventure that they can circle the globe in 80 days.",
+                    "thumbnail_art":"https://streamcoimg-a.akamaihd.net/000/311/156/311156-PosterArt-ff68360272da9a703c113c20646af142.jpg",
+                    "deeplinks":[
+                        {
+                            "action":"open",
+                            "platform":"fetch",
+                            "url":"https://api.stan.com.au/cat/v12/programs/311156.json"
+                        }
+                    ],
+                    "title":"Around the World in 80 Days",
+                    "people":[
+                        {
+                            "role":"actor",
+                            "name":"Jackie Chan"
+                        },
+                        {
+                            "role":"actor",
+                            "name":"Steve Coogan"
+                        },
+                        {
+                            "role":"actor",
+                            "name":"Jim Broadbent"
+                        },
+                        {
+                            "role":"director",
+                            "name":"Frank Coraci"
+                        }
+                    ],
+                    "closed_captions":[
+                        "en"
+                    ],
+                    "duration":7192,
+                    "release_year":2004,
+                    "Banner-L2":"https://streamcoimg-a.akamaihd.net/000/311/156/311156-Banner-L2-8a1eb69fe100f9865e61e8f8250e4228.jpg",
+                    "genre":[
+                        "Action",
+                        "Adventure",
+                        "Comedy",
+                        "Family"
+                    ],
+                    "video_quality":"HD",
+                    "poster_art":"https://streamcoimg-a.akamaihd.net/000/311/156/311156-PosterArt-ff68360272da9a703c113c20646af142.jpg",
+                    "id":"311156",
+                    "restrictions":{
+                        "time":{
+                            "start_time":"2021-04-03T13:00:00Z",
+                            "end_time":"2024-04-03T12:59:00Z"
+                        }
+                    }
+                }
+            },
+            {
+                "episode":{
+                    "rating":"M",
+                    "people":[
+                        {
+                            "role":"actor",
+                            "name":"Jenny Agutter"
+                        },
+                        {
+                            "role":"actor",
+                            "name":"Laura Main"
+                        },
+                        {
+                            "role":"actor",
+                            "name":"Vanessa Redgrave"
+                        },
+                        {
+                            "role":"actor",
+                            "name":"Judy Parfitt"
+                        },
+                        {
+                            "role":"actor",
+                            "name":"Stephen McGann"
+                        },
+                        {
+                            "role":"director",
+                            "name":"Philippa Lowthorpe"
+                        }
+                    ],
+                    "season_id":"34237",
+                    "duration":3118,
+                    "id":"340335",
+                    "thumbnail_art":"https://streamcoimg-a.akamaihd.net/000/340/335/340335-CastinCharacter-64d49d391fb71a55c1974d21debd6d21.jpg",
+                    "languages":[
+                        "English"
+                    ],
+                    "season_number":1,
+                    "consumer_advice":[
+                        "Mature themes"
+                    ],
+                    "closed_captions":[
+                        "en"
+                    ],
+                    "landscape_art":"https://streamcoimg-a.akamaihd.net/000/340/335/340335-CastinCharacter-64d49d391fb71a55c1974d21debd6d21.jpg",
+                    "description":"Newly qualified midwife Jenny Lee arrives in the East End to work with an order of nuns.",
+                    "deeplinks":[
+                        {
+                            "action":"open",
+                            "platform":"fetch",
+                            "url":"https://api.stan.com.au/cat/v12/programs/604.json"
+                        }
+                    ],
+                    "series_id":"604",
+                    "genre":[
+                        "Drama"
+                    ],
+                    "episode_number":1,
+                    "series_title":"Call the Midwife",
+                    "restrictions":{
+                        "time":{
+                            "start_time":"2014-10-25T13:00:00Z",
+                            "end_time":"2023-04-14T13:59:00Z"
+                        }
+                    },
+                    "title":"Episode 1",
+                    "Banner-L2":"https://streamcoimg-a.akamaihd.net/000/060/4/604-Banner-L2-28e491e97c5cec2e04eb120ecb5dc496.jpg",
+                    "video_quality":"HD",
+                    "poster_art":"https://streamcoimg-a.akamaihd.net/000/060/4/604-PosterArt-9057fec13af84ffefa5df61345e064fa.jpg"
+                }
+            },
+            {
+                "season":{
+                    "closed_captions":[
+                        "eng"
+                    ],
+                    "release_year":2012,
+                    "title":"Season 1",
+                    "series_title":"Call the Midwife",
+                    "series_id":"604",
+                    "video_quality":"HD",
+                    "season_number":1,
+                    "id":"34237"
+                }
+            }
+        ]
+    }
+]

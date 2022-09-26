@@ -184,3 +184,19 @@ def iwonder_feed():
             with app.open_resource('static/iwonder/iwonder_metadata.json') as iwonder_metadata_json:
                 iwonder_metadata = json.load(iwonder_metadata_json)
                 return Response(json.dumps(iwonder_metadata))
+
+
+@app.route('/stan/feed', methods=['GET', 'POST'])
+def stan_feed():
+
+    if request.method == 'GET':
+
+        if request.args.get('test_case') == "1":
+            with app.open_resource('static/stan/stan_test_case_1_metadata.json') as stan_test_case_1_metadata_json:
+                stan_test_case_1_metadata = json.load(stan_test_case_1_metadata_json)
+                return Response(json.dumps(stan_test_case_1_metadata))
+
+        else:
+            with app.open_resource('static/stan/stan_metadata.json') as stan_metadata_json:
+                stan_metadata = json.load(stan_metadata_json)
+                return Response(json.dumps(stan_metadata))
