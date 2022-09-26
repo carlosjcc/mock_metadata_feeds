@@ -14,19 +14,35 @@ app = Flask(__name__)
 def netflix_feed():
 
     if request.method == 'GET':
-        with app.open_resource('static/netflix/netflix_data_sources.json') as netflix_data_sources_json:
-            netflix_data_sources = json.load(netflix_data_sources_json)
 
-            return Response(json.dumps(netflix_data_sources))
+        if request.args.get('test_case') == "1":
+            with app.open_resource('static/netflix/netflix_test_1_data_sources.json') as netflix_test_1_data_sources_json:
+                netflix_test_1_data_sources = json.load(netflix_test_1_data_sources_json)
+
+                return Response(json.dumps(netflix_test_1_data_sources))
+
+        else:
+            with app.open_resource('static/netflix/netflix_data_sources.json') as netflix_data_sources_json:
+                netflix_data_sources = json.load(netflix_data_sources_json)
+
+                return Response(json.dumps(netflix_data_sources))
 
 @app.route('/netflix/data', methods=['GET', 'POST'])
 def netflix_data():
 
     if request.method == 'GET':
-        with app.open_resource('static/netflix/netflix_metadata.json') as netflix_metadata_json:
-            netflix_metadata = json.load(netflix_metadata_json)
 
-            return Response(json.dumps(netflix_metadata))
+        if request.args.get('test_case') == "1":
+            with app.open_resource('static/netflix/netflix_test_1_metadata.json') as netflix_test_1_metadata_json:
+                netflix_test_1_metadata = json.load(netflix_test_1_metadata_json)
+
+                return Response(json.dumps(netflix_test_1_metadata))
+
+        else:
+            with app.open_resource('static/netflix/netflix_metadata.json') as netflix_metadata_json:
+                netflix_metadata = json.load(netflix_metadata_json)
+
+                return Response(json.dumps(netflix_metadata))
 
 
 @app.route('/tenaa/feed', methods=['GET', 'POST'])
@@ -35,7 +51,7 @@ def tenaa_feed():
     start_index = request.args['startIndex']
 
     if request.method == 'GET':
-        with app.open_resource('static/ten_aa_metadata.json') as ten_aa_metadata_json:
+        with app.open_resource('static/ten_aa/ten_aa_metadata.json') as ten_aa_metadata_json:
             ten_aa_metadata = json.load(ten_aa_metadata_json)
             ten_aa_metadata['itemCount'] = len(ten_aa_metadata["itemList"])
 
